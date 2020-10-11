@@ -18,6 +18,8 @@ language: en
 * https://medium.com/paypal-engineering
 * https://medium.com/imgur-engineering
 
+* DDIA Summary --https://github.com/ibillett/designing-data-intensive-applications-notes
+
 ## Books
 
 * The Practice of Cloud System Administration (Thomas A. Limoncelli)
