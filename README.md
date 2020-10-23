@@ -18,6 +18,9 @@ language: en
 * https://medium.com/paypal-engineering
 * https://medium.com/imgur-engineering
 
+
+*https://emre.me/categories/#coding-patterns
+
 * DDIA Summary --https://github.com/ibillett/designing-data-intensive-applications-notes
 
 ## Books
