@@ -22,6 +22,7 @@ language: en
 *https://emre.me/categories/#coding-patterns
 
 * DDIA Summary --https://github.com/ibillett/designing-data-intensive-applications-notes
+https://timilearning.com/posts/ddia/notes/
 
 ## Books
 
