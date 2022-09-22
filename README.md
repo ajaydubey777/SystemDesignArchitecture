@@ -34,3 +34,6 @@ https://timilearning.com/posts/ddia/notes/
 * NoSQL Distilled (Pramod J. Sadalage)
 
 Candidate List: https://docs.google.com/spreadsheets/d/11Rjv-SVXj4DN9l2qTZzM-oirMMK9wXTjbS8GFzBmR0s/edit#gid=2041570299
+
+Good link havning other links
+https://codersguild.github.io/System-Design/System%20Design%20Basics/
