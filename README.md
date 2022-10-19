@@ -37,3 +37,6 @@ Candidate List: https://docs.google.com/spreadsheets/d/11Rjv-SVXj4DN9l2qTZzM-oir
 
 Good link havning other links
 https://codersguild.github.io/System-Design/System%20Design%20Basics/
+
+* Good website having notes for topics like DDIA and MIT distributed course
+https://timilearning.com/
