@@ -8,4 +8,5 @@
 * https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950
 * https://levelup.gitconnected.com/system-design-designing-a-distributed-job-scheduler-6d3b6d714fdb
 * LSM Tree Overview for quick refrence : https://blog.devgenius.io/log-structured-merge-tree-a8733ce152b2
+* Kafka Metrics useffull for observability and alerting : https://medium.com/@yashwant.deshmukh23/kafka-real-time-streaming-application-monitoring-and-alerting-daa4a8796c61
 * 
